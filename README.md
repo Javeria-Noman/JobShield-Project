@@ -65,6 +65,7 @@ Possible prediction values: Legitimate, Suspicious, Scam, Uncertain.
 Update the endpoint, operation name, and field names above to match your actual WSDL.
 
 **Risk Levels**
+
 Level	Category	Indicators
 
 1	Legitimate	Verified company domain, detailed role requirements, realistic pay, standard contact channels.
