@@ -174,7 +174,8 @@ streamlit run app.py
 
 ## 👥 Team
 
-1. **Sidra Sultan**
-2. **Noor-ul-Aien**
-3. **Sadaf Ahmed**
-4. **Jaweria Nomanisme**
+1. **Javeria Noman**
+2. **Sidra Sultan**
+3. **Noor-ul-Aien**
+4. **Sadaf Ahmed**
+5.
